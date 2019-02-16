@@ -1,0 +1,7 @@
+.form_err{
+  border: 1px solid red;
+}
+.app_container{
+	margin-top: 20px;
+	text-align: center;
+}

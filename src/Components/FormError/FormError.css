@@ -1,0 +1,9 @@
+.err_container
+{
+	color:blue;
+	clear: both;		
+}
+.err_msg{
+	color:red;
+	font-size: 12px;
+}
